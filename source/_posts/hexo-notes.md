@@ -1,7 +1,7 @@
 ---
 title: hexo notes
 date: 2022-08-17 12:29:02
-tags:
+tags: post
 ---
 
 ```

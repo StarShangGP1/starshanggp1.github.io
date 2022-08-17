@@ -1,1 +1,1 @@
-# https://starshanggp1.github.io/
+# [blog link](https://starshanggp1.github.io/)

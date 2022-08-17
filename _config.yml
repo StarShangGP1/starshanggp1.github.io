@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -103,5 +102,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://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@github.com/StarShangGP1/starshanggp1.github.io.git
+  branch: master
 

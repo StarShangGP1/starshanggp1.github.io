@@ -8,8 +8,14 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+#Enable Disqus comments
+#disqusShortname = "yourdiscussshortname"
+
+# Comments on github issue
+[params.utteranc]
+    repo = "StarShangGP1/starshanggp1.github.io"
+    issue-term = "pathname"
+    theme = "github-light"
 
 [params]
 author = "John Doe"

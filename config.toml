@@ -1,4 +1,4 @@
-baseURL = "https://jovial-piroshki-0e8f7e.netlify.app/"
+baseURL = "https://gp1.netlify.app/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"

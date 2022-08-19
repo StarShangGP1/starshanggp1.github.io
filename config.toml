@@ -48,12 +48,12 @@ FootnoteReturnLinkContents = "↑"
     maxSeeAlsoItems = 5
     math = true
 
-# Comments on github issue
+## 配置 utteranc评论,教程参考 https://utteranc.es/
 [params.utteranc]
-    enable = true
-    repo = "StarShangGP1/starshanggp1.github.io"
-    issue-term = "pathname"
-    theme = "github-light"
+  enable = true
+  repo = "StarShangGP1/starshanggp1.github.io"
+  issueTerm = "pathname"
+  theme = "github-light"
 
 # Social links
 [[params.social]]

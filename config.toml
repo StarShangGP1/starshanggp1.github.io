@@ -13,6 +13,7 @@ enableEmoji = true
 
 # Comments on github issue
 [params.utteranc]
+    enable = true
     repo = "StarShangGP1/starshanggp1.github.io"
     issue-term = "pathname"
     theme = "github-light"

@@ -1,4 +1,4 @@
-baseURL = "https://gp1.netlify.app/"
+baseURL = "https://gp1.netlify.app"
 title = "GP1 Blog"
 theme = "hugo-coder"
 languageCode = "zh-cn"
